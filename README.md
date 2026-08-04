@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi 👋, I'm Fatuma Zehra <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="40" alt="Bongo Cat"></h1>
+  <h1>Hi 👋, I'm Fatuma Zehra <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="40" alt="Cute Cat"></h1>
   <h3>Computer Engineering Student @ İTÜ | Software & UI/UX Developer</h3>
 </div>
 
@@ -7,7 +7,7 @@
 
 - 🎓 **Education:** BSc in Computer Engineering at Istanbul Technical University (Class of 2028) | Exchange @ BME Budapest
 - 💼 **Experience:** Technology Intern @ SOCAR Türkiye & Arkas Bimar
-- 🌱 **Currently working on:** *feast* (Restaurant Navigation & Menu App) and some passion projects
+- 🌱 **Currently working on:** *Feast* (Restaurant Navigation & Menu App) and *Tech Asset Management App*
 - 🎨 **Interests:** Minimalist UI/UX Design, 3D Web Assets (Spline), Board Games & Indie Games
 - 📫 **How to reach me:** zehraerdem321@gmail.com
 
@@ -33,6 +33,5 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
 </div>
