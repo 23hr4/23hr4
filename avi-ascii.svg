@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="370" height="776" viewBox="0 0 370 776">
+<svg xmlns="http://www.w3.org/2000/svg" width="370" height="280" viewBox="0 0 370 280">
 <style>
   .ascii { font-family: monospace; font-size: 10px; fill: #c9d1d9; white-space: pre; }
   @keyframes type { from { width: 0; } to { width: 100%; } }
@@ -6,59 +6,31 @@
 </style>
 <rect width="100%" height="100%" fill="#0d1117" rx="6" />
 <text x="15" y="20" class="ascii">
-<tspan x="15" dy="0" style="animation: type 0.2s ease-out 0.0s both;">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%c=`     -%%%c**s%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 0.03s both;">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#sc=::.`=--=#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 0.06s both;">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%sc*++++==-`+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 0.09s both;">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%sc*c**ccc*=:=#%%%%%%%*``-=====*cs#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 0.12s both;">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#ccs#scccc+=:=s%%%%%%%%%= ...```-+*cccc#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 0.15s both;">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#cc###c***+-:=s%%%%%%%%%%%#:.``````:--+csc*s%%%%%%%%%%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 0.18s both;">%%%%%%%%%%%%%%%%%%%%%%%%%%%#cc###ssssc=::c%%%%%%%%%%%%%%s` ..````:=+cs##c*#%%%%%%%%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 0.21s both;">%%%%%%%%%%%%%%%%%%%%%%%%%%sc##sscc***+=c%%%%%%c+*%%%%%%%%s:...`:-==++*cs##cc%%%%%%%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 0.24s both;">%%%%%%%%%%%%%%%%%%%%%%%%#*s##sc**+=:-c%%%%%%%%%##%%%%%%%%%%s-```:---=+*css#sc#%%%%%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 0.27s both;">%%%%%%%%%%%%%%%%%%%%%%%#*##ssc*+-:-c%%%%%%%%%%%%%%%%%%%%%%%%%#s*==+*=-+ccss##*s%%%%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 0.3s both;">%%%%%%%%%%%%%%%%%%%%%%#*##ssc*-`-c%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#++cccs##cc%%%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 0.32999999999999996s both;">%%%%%%%%%%%%%%%%%%%%%#*##ssc+::*%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%c+cccss#cc%%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 0.36s both;">%%%%%%%%%%%%%%%%%%%%%*s#sss*:+#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%c+ccsss#*s%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 0.39s both;">%%%%%%%%%%%%%%%%%%%%s*#ssss=s%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%**csssss+%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 0.42s both;">%%%%%%%%%%%%%%%%%%%%+s#ssss+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#+csssss+s%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 0.44999999999999996s both;">%%%%%%%%%%%%%%%%%%%%+ssssss+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#+s#ssss**%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 0.48s both;">%%%%%%%%%%%%%%%%%%%%+sssss#cc%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%**##ssss**%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 0.51s both;">%%%%%%%%%%%%%%%%%%%%+*sssss#sc#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#*c###ssss=s%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 0.54s both;">%%%%%%%%%%%%%%%%%%%%s=csssss##ccs#%%%%%%%%%%%%##########sc####%%%%%%%sc*s%#sssssc=%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 0.57s both;">%%%%%%%%%%%%%%%%%%%%%*+cssssss##sccccccscsssssssssssssssccccssccc****c#%#ssssssc=s%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 0.6s both;">%%%%%%%%%%%%%%%%%%%%%%+=cssssssss######%%%%%%%%%%%%%%%%%%%%%%%%%%%##%##sssssssc=s%%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 0.63s both;">%%%%%%%%%%%%%%%%%%%%%%%*=*csssssss############%#%%%%%%%#%%%%%%%%######sssssss+=#%%%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 0.6599999999999999s both;">%%%%%%%%%%%%%%%%%%%%%%%%s==*cssss#sssssssssssssssssssssssssssssssssssssssss*=*%%%%%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 0.69s both;">%%%%%%%%%%%%%%%%%%%%%%%%%%*=-+cssscccccccccccccccccccccccccccccccccccccsc*=+#%%%%%%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 0.72s both;">%%%%%%%%%%%%%%%%%%%%%%%%%%%%s=-+*c**cccccccccccccccccccccccccccccccccccc++#%%%%%%%%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 0.75s both;">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%=-+**cccccccccccccccccccccccccccscccscccc*+%%%%%%%%%%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 0.78s both;">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#-**ccccccc*=-::-=*sscccccccccsc=:`:-*sss*c%%%%%%%%%%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 0.8099999999999999s both;">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%+*cccccsc-.     ..-cssssscsss+.     `+ss**%%%%%%%%%%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 0.84s both;">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%*+cccssc`  ........:csssssss+....... :cs*+%%%%%%%%%%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 0.87s both;">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%s=ccsss- ....```````+sssssss:........`*s++%%%%%%%%%%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 0.8999999999999999s both;">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%+csssc`..```````::`-s#sss#c````````..*#+c%%%%%%%%%%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 0.9299999999999999s both;">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%c*ssss`.```::::````-s##ss#c````````.`ss=#%%%%%%%%%%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 0.96s both;">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#+sss#=...````````.+#ssss#s:```````.=#c+%%%%%%%%%%%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 0.99s both;">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%**ssss:..``````..-s##s##s#+``````.-#s+s%%%%%%%%%%%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 1.02s both;">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#+sssss+`.`````:+##sssssss#*:````=##c*%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 1.05s both;">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%**ccss#s*+==+cs#ssssssssssss***s#ss+#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 1.08s both;">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#=*ccccssssssssssssssssscccccccccc+c%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 1.1099999999999999s both;">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%c=****cccccccccccccc************-+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 1.14s both;">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%c=+++++++++++++++++++==========*%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 1.17s both;">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#c*++++===========-=======+*c%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 1.2s both;">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%###########%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 1.23s both;">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 1.26s both;">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 1.29s both;">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 1.3199999999999998s both;">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 1.3499999999999999s both;">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 1.38s both;">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 1.41s both;">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 1.44s both;">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 1.47s both;">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 1.5s both;">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 1.53s both;">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 1.56s both;">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="15" dy="14" style="animation: type 0.2s ease-out 1.5899999999999999s both;">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</tspan>
+<tspan x="15" dy="0" style="animation: type 0.2s ease-out 0.0s both;">                           :*#**-                           </tspan>
+<tspan x="15" dy="10" style="animation: type 0.2s ease-out 0.03s both;">                       .::=+:    :-...                      </tspan>
+<tspan x="15" dy="10" style="animation: type 0.2s ease-out 0.06s both;">                      .-=-.      -@%##*=:                   </tspan>
+<tspan x="15" dy="10" style="animation: type 0.2s ease-out 0.09s both;">                    .::-          :*%#*+=:                  </tspan>
+<tspan x="15" dy="10" style="animation: type 0.2s ease-out 0.12s both;">                  -+=.               :--:-:.                </tspan>
+<tspan x="15" dy="10" style="animation: type 0.2s ease-out 0.15s both;">             .  .==                        :.               </tspan>
+<tspan x="15" dy="10" style="animation: type 0.2s ease-out 0.18s both;">            .   -                           :.  .           </tspan>
+<tspan x="15" dy="10" style="animation: type 0.2s ease-out 0.21s both;">            :   .                           :   ..          </tspan>
+<tspan x="15" dy="10" style="animation: type 0.2s ease-out 0.24s both;">            :                                   :           </tspan>
+<tspan x="15" dy="10" style="animation: type 0.2s ease-out 0.27s both;">             :.                                ..           </tspan>
+<tspan x="15" dy="10" style="animation: type 0.2s ease-out 0.3s both;">              :-.                            .:             </tspan>
+<tspan x="15" dy="10" style="animation: type 0.2s ease-out 0.32999999999999996s both;">                :-:..................   .. ::               </tspan>
+<tspan x="15" dy="10" style="animation: type 0.2s ease-out 0.36s both;">                  --:....:---. ......:=-: .:                </tspan>
+<tspan x="15" dy="10" style="animation: type 0.2s ease-out 0.39s both;">                   -.. -#%%%%#:    .*%@@%:.:                </tspan>
+<tspan x="15" dy="10" style="animation: type 0.2s ease-out 0.42s both;">                   :. .%%#####*    +%%#%%=..                </tspan>
+<tspan x="15" dy="10" style="animation: type 0.2s ease-out 0.44999999999999996s both;">                    . .#%#####*    =%##%%.:                 </tspan>
+<tspan x="15" dy="10" style="animation: type 0.2s ease-out 0.48s both;">                    .. .+###*+.     =**+. .                 </tspan>
+<tspan x="15" dy="10" style="animation: type 0.2s ease-out 0.51s both;">                     -.. ...       .....::                  </tspan>
+<tspan x="15" dy="10" style="animation: type 0.2s ease-out 0.54s both;">                      ----:--------===--:                   </tspan>
+<tspan x="15" dy="10" style="animation: type 0.2s ease-out 0.57s both;">                                                            </tspan>
+<tspan x="15" dy="10" style="animation: type 0.2s ease-out 0.6s both;">                                                            </tspan>
+<tspan x="15" dy="10" style="animation: type 0.2s ease-out 0.63s both;">                                                            </tspan>
+<tspan x="15" dy="10" style="animation: type 0.2s ease-out 0.6599999999999999s both;">                                                            </tspan>
+<tspan x="15" dy="10" style="animation: type 0.2s ease-out 0.69s both;">                                                            </tspan>
+<tspan x="15" dy="10" style="animation: type 0.2s ease-out 0.72s both;">                                                            </tspan>
+<tspan x="15" dy="10" style="animation: type 0.2s ease-out 0.75s both;">                                                            </tspan>
 </text>
 </svg>

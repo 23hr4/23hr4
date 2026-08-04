@@ -1,24 +1,30 @@
 from PIL import Image
 
-RAMP = " .`:-=+*cs#%@"  # Açık renkten koyuya ASCII karakter skalası
+# Koyu renkten açığa doğru sıralama (En sondaki 3 boşluk, beyaz arka planı şeffaf yapar)
+RAMP = "@%#*+=-:.   "  
 
-def image_to_ascii(img_path, width=100):
+def image_to_ascii(img_path, width=60): # Genişlik azaltıldı (Kutuyla aynı boy olması için)
     img = Image.open(img_path).convert('L')
     aspect_ratio = img.height / img.width
-    height = int(width * aspect_ratio * 0.55)
+    
+    # Yazı tipinden kaynaklı sünmeyi/uzamayı önleyen doğru oran (0.45)
+    height = int(width * aspect_ratio * 0.45)
     img = img.resize((width, height))
     
     pixels = img.getdata()
     ascii_str = ""
     for i, pixel in enumerate(pixels):
-        ascii_str += RAMP[pixel // 22]
+        index = pixel // 22
+        # Taşmayı önlemek için güvenlik kontrolü
+        if index >= len(RAMP): index = len(RAMP) - 1
+        ascii_str += RAMP[index]
         if (i + 1) % width == 0:
             ascii_str += "\n"
     return ascii_str.splitlines()
 
 def generate_svg():
     lines = image_to_ascii("source-prepped.png")
-    line_height = 14
+    line_height = 10 # Satır aralığı daraltıldı (aşağı uzamayı engeller)
     width = 370
     height = len(lines) * line_height + 20
     
