@@ -1,22 +1,27 @@
 <div align="center">
-  <h1>Hi 👋, I'm Fatuma Zehra <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="40" alt="Cute Cat"></h1>
-  <h3>Computer Engineering Student @ İTÜ | Software & UI/UX Developer</h3>
+  <h1>Hello hello 👋, I'm Fatuma Zehra </h1>
+  <h3>Computer Engineering Student @ İTÜ</h3>
 </div>
 
 <br />
 
 - 🎓 **Education:** BSc in Computer Engineering at Istanbul Technical University (Class of 2028) | Exchange @ BME Budapest
 - 💼 **Experience:** Technology Intern @ SOCAR Türkiye & Arkas Bimar
-- 🌱 **Currently working on:** *Feast* (Restaurant Navigation & Menu App) and *Tech Asset Management App*
+- 🌱 **Currently working on:** *feast* (Restaurant Navigation & Menu App) and some passion projects
 - 🎨 **Interests:** Minimalist UI/UX Design, 3D Web Assets (Spline), Board Games & Indie Games
 - 📫 **How to reach me:** zehraerdem321@gmail.com
 
 <br />
 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Q0cXNwYW1yaG1sNDJ3bnlydmc4d21tb3ExaGZoOHhzNXdhaHFwcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UxES0P0wADBV5Msx0X/giphy.gif" width="40" alt="chiikawa pc">
+
 <div align="center">
   <h3>Connect with me:</h3>
   <a href="https://www.linkedin.com/in/fatuma-zehra-erdem/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/zehra_erdem/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:zehraerdem321@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
