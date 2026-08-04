@@ -13,7 +13,9 @@
 
 <br />
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Q0cXNwYW1yaG1sNDJ3bnlydmc4d21tb3ExaGZoOHhzNXdhaHFwcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UxES0P0wADBV5Msx0X/giphy.gif" width="40" alt="chiikawa pc">
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Q0cXNwYW1yaG1sNDJ3bnlydmc4d21tb3ExaGZoOHhzNXdhaHFwcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UxES0P0wADBV5Msx0X/giphy.gif" width="450px" height="auto" alt="chiikawa pc">
+</div>
 
 <div align="center">
   <h3>Connect with me:</h3>
