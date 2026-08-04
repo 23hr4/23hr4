@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello hello 👋, I'm Fatuma Zehra </h1>
+  <h1>Hello hello 👋, I'm Zehra! </h1>
   <h3>Computer Engineering Student @ İTÜ</h3>
 </div>
 
