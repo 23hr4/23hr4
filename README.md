@@ -8,7 +8,8 @@
 - 🎓 **Education:** BSc in Computer Engineering at Istanbul Technical University (Class of 2028) | Exchange @ BME Budapest
 - 💼 **Experience:** Technology Intern @ SOCAR Türkiye & Arkas Bimar
 - 🌱 **Currently working on:** *feast* (Restaurant Navigation & Menu App) and some passion projects
-- 🎨 **Interests:** Minimalist UI/UX Design, 3D Web Assets (Spline), Board Games & Indie Games
+- 🎨 **Interests:** Musicals, Scrapbooks, Board Games & Indie Games
+- 📚 **What i am learning now:** .NET, Data Analysis, Web Design, Testing
 - 📫 **How to reach me:** zehraerdem321@gmail.com
 
 <br />
