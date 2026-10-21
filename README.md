@@ -18,7 +18,7 @@
 💼 Experience: Technology Intern @ SOCAR Türkiye &amp; Arkas Bimar
 
 🔭 &nbsp;I'm currently working on **feast (Restaurant Navigation &amp; Menu App) and some passion projects.**  
-🌱 &nbsp;I'm currently learning **.NET, Data Analysis, Web Design, Testing**
+🌱 &nbsp;I'm currently learning **Databases, Microprocessors, Flask, Computer Vision**
 
 ### 🛠️ Tech Stack
 
